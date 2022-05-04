@@ -1,4 +1,4 @@
-# Make Any Website Page Editable
+# Make Any Website Page Editable[^1]
 
 While browsing the internet or looking at your own website pages, you may want to try different copywriting options. Editing a page, making copywriting changes, and previewing it without publishing is a time-consuming process in such cases.
 
@@ -23,3 +23,5 @@ Now, visit a website page such as https://octeth.com/ and click the "Edit Page" 
 ![Screenshot-2022-05-03-13 17](https://user-images.githubusercontent.com/36230/166437387-e6289cf8-70f2-4256-8a3e-47657028436f.gif)
 
 Happy Editing 💪
+
+[^1]: Inspired from [Neville Medhora](https://copywritingcourse.com/blogs/34-edit-any-website-free-tool/). [Follow him](https://twitter.com/nevmed) on twitter.
